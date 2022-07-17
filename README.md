@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flappizxc
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning htlm, python
+- 🌱 I’m currently learning c#, python
 - 💞️ I’m looking to collaborate on with no one
 - 📫 How to reach me 
 
